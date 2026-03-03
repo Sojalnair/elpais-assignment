@@ -28,6 +28,5 @@ images/
 .DS_Store
 Thumbs.db
 
-# Credentials (IMPORTANT - don't commit your keys!)
+# Credentials 
 config.py
-credentials.py
